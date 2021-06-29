@@ -27,3 +27,5 @@ Sakya0214@gmail.com, pengyunfei@polyv.net
 ## License
 
 SKNetworking is available under the MIT license. See the LICENSE file for more info.
+
+READ
