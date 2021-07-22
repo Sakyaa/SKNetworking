@@ -28,4 +28,4 @@ Sakya0214@gmail.com, pengyunfei@polyv.net
 
 SKNetworking is available under the MIT license. See the LICENSE file for more info.
 
-封装
+封装dsada
